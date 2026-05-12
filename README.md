@@ -1,1 +1,1 @@
-- 🌱 I’m currently learning Java DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning Java  and Integrating AI to my workflow
