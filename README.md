@@ -16,3 +16,7 @@
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows_11-Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<br/>
+
+
+[![Abdulrazzak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AHARazzak&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
