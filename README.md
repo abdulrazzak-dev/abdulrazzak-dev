@@ -1,8 +1,20 @@
 
   # 👋 Hi, I'm Abdul Razzak!
+ 
 
-### 🚀 Frontend Developer & Web Designer
-I am a passionate Frontend Developer dedicated to building clean, responsive, and highly interactive user interfaces. I love turning design concepts into functional, pixel-perfect websites. Currently, I am expanding my expertise through the Web Design & Development programs at the **University of Moratuwa**.
+### Junior Software Developer | Associate Full-Stack Developer | Front-End Specialist
+
+> **"Crafting responsive web apps with HTML, CSS, JS & AI tools."**
+
+I am a passionate and detail-oriented developer specializing in building modern, fluid, and user-centric web applications. By blending core web standards with modern AI workflows, I focus on building efficient, responsive, and beautiful digital products.
+
+---
+
+### 🚀 What I Do
+- 📱 **Front-End Architecture:** Creating pixel-perfect layouts using modern CSS (Flexbox, Grid), media queries, and semantic HTML.
+- ⚙️ **Full-Stack Development:** Evolving systems by bridging modern front-end interactivity with structured backend ecosystems.
+- 🤖 **AI-Assisted Workflow:** Leveraging cutting-edge AI utilities to speed up code layouts, write smart tests, and optimize debugging.
+- 🎓 **Certified Excellence:** Completed the certified Front-End Web Development program from the **University of Moratuwa**.
 
 - 🌱 I’m currently learning Java  and Integrating AI to my workflow
 - Previously worked with Dialog
@@ -39,7 +51,7 @@ Here are some of the recent web projects I have designed and deployed:
 
 ## 🤝 Let's Connect!
 
-- **Portfolio Site:** [aharazzak.github.io/Portfolio/](https://aharazzak.github.io/Portfolio/)
+- **Portfolio Site:** https://abdulrazzak-dev.github.io/Portfolio/
 - Feel free to check out my repositories, open an issue, or reach out for collaboration on exciting frontend projects!
 
 ---
