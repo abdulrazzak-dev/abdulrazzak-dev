@@ -24,7 +24,7 @@ I am a passionate Frontend Developer dedicated to building clean, responsive, an
 Here are some of the recent web projects I have designed and deployed:
 
 - **⚡ [Golden Electrical & Manufactures]( https://abdulrazzak-dev.github.io/golden-electrical-storefront/)** - A commercial B2B product catalog storefront with clean navigation and interactive pricing badges.
-- **🍰 [Sweet Delights Bakery](https://abdulrazzak-dev.github.io/Web-Designs---New-project-mora-/)** - An elegant digital storefront for an artisan bakery featuring semantic pricing tables.
+- **🍰 [Sweet Delights Bakery]( https://abdulrazzak-dev.github.io/sweet-delights-bakery/)** - An elegant digital storefront for an artisan bakery featuring semantic pricing tables.
 - **🌐 [Personal Portfolio](https://abdulrazzak-dev.github.io/Portfolio/)** - My personal digital experience featuring smooth animations powered by GSAP.
 
 ---
