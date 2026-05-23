@@ -6,12 +6,12 @@
 
 > **"Crafting responsive web apps with HTML, CSS, JS & AI tools."**
 
-I am a passionate and detail-oriented developer specializing in building modern, fluid, and user-centric web applications. By blending core web standards with modern AI workflows, I focus on building efficient, responsive, and beautiful digital products.
+I am a passionate and detail-oriented developer specializing in building modern, fluid, and user centric web applications. By blending core web standards with modern AI workflows, I focus on building efficient, responsive, and beautiful digital products.
 
 ---
 
 ### 🚀 What I Do
-- 📱 **Front-End Architecture:** Creating pixel-perfect layouts using modern CSS (Flexbox, Grid), media queries, and semantic HTML.
+- 📱 **Front-End Architecture:** Creating pixel perfect layouts using modern CSS (Flexbox, Grid), media queries, and semantic HTML.
 - ⚙️ **Full-Stack Development:** Evolving systems by bridging modern front-end interactivity with structured backend ecosystems.
 - 🤖 **AI-Assisted Workflow:** Leveraging cutting-edge AI utilities to speed up code layouts, write smart tests, and optimize debugging.
 - 🎓 **Certified Excellence:** Completed the certified Front-End Web Development program from the **University of Moratuwa**.
