@@ -50,7 +50,8 @@ Here are some of the recent web projects I have designed and deployed:
 - **🍰 [Sweet Delights Bakery]( https://abdulrazzak-dev.github.io/sweet-delights-bakery/)** - An elegant digital storefront for an artisan bakery featuring semantic pricing tables.
 - **🚌 [Bus Ticket Booking Website UI/UX](https://abdulrazzak-dev.github.io/Bus-Ticket-Booking-Website-UI-UX/)** - A modern digital ticketing platform for bus travelers featuring intuitive booking workflows, interactive seat selection, and a clean, responsive user interface.
 - **🌐 [Personal Portfolio](https://abdulrazzak-dev.github.io/Portfolio/)** - My personal digital experience featuring smooth animations powered by GSAP.
-- - **🌐 [The Simon Game](https://abdulrazzak-dev.github.io/The-Simon-Game/)** - My personal digital experience featuring smooth animations powered by GSAP.
+- **🌐 [The Simon Game](https://abdulrazzak-dev.github.io/The-Simon-Game/)** - A modern recreation of the classic Simon memory game featuring responsive design, dynamic gameplay, and smooth GSAP animations for an immersive user experience.
+- **🌐 [The-Dice-Game]( https://abdulrazzak-dev.github.io/-The-Dice-Game/)** -🎲 A fun two-player dice game built with HTML, CSS, and JavaScript, where each refresh rolls the dice and automatically declares the winner.
 
 ---
 
