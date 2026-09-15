@@ -52,6 +52,8 @@ I am a passionate and detail-oriented developer specializing in building modern,
 ## 📂 Featured Projects
 
 Here are some of the recent web projects I have designed and deployed:
+
+* 📊 [Business Management System](https://business-management-system-plum.vercel.app) - A full-stack enterprise management application featuring inventory control, order processing, dashboard analytics, and role-based access security.
 - **⚡ [AI-Study-Assistant](https://abdulrazzak-dev.github.io/AI-Study-Assistant/)** -🤖 An intelligent study companion web application designed to help students organize notes, summarize concepts, and boost study efficiency.
 - **⚡ [Golden Electrical & Manufactures](  https://abdulrazzak-dev.github.io/golden-electrical-store-front/)** - A commercial B2B product catalog storefront with clean navigation and interactive pricing badges.
 - **🍰 [Sweet Delights Bakery]( https://abdulrazzak-dev.github.io/sweet-delights-bakery/)** - An elegant digital storefront for an artisan bakery featuring semantic pricing tables.
