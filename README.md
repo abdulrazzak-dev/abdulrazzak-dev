@@ -22,7 +22,7 @@ I am a passionate and detail-oriented developer specializing in building modern,
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/> | **PostgreSQL** | Relational database |
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/eclipseide.svg" alt="Eclipse IDE"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/eclipseide.svg" alt="Eclipse IDE"/>
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Windows_11-Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
 <br/>
